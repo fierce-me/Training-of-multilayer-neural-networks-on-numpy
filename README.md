@@ -10,6 +10,7 @@ Training of multilayer CNN using numpy
 ````markdown
 ```bash
 python3 download_pickles.py
+```
 ````
 
 ## 🚀 Запуск программы
